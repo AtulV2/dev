@@ -23,6 +23,6 @@ for i in range(len(list_str)):
         result[i] = list_str[i]
 
 print("String with reversed vowels:", ''.join(result)) 
-# String with reversed vowels: a1u2o3i4e5a6
+
 
 
